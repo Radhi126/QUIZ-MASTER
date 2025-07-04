@@ -20,6 +20,18 @@ If participant done with the quiz, and he/she also got to know his/her total sco
 Quiz master is based on popular reality quiz shows where player has to answer some questions based on various themes. The player gets to choose the correct answer from four different set of options. If the player chooses the right option, he gets one point and proceeds further. If the option was wrong, no points will be allotted to the player. 
 At the exit of the quiz, the player’s overall factors are displayed and also the total score whatever the player has attained. 
 
+## Install the required Libraries.
+
+Clone the project
+
+```
+pip install pymysql
+```
+or
+```
+python -m pip install pymysql
+```
+
 OBJECTIVE OF OUR PROJECT:
 
 •	To create a quiz management system that allows users to take quizzes on various topics.
