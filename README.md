@@ -17,6 +17,9 @@ In this project, we will be having a platform to participate in quiz, named “Q
 This how the user will enter his choice whenever get a popup for that. Then, according to his/her choice, the program will run and participant will be able to play the quiz. 
 If participant done with the quiz, and he/she also got to know his/her total score, so he/she can leave the quiz master. 
 
+![image](https://github.com/user-attachments/assets/eeb466b9-9678-4b68-aa05-08b44f48d8a6)
+
+
 Quiz master is based on popular reality quiz shows where player has to answer some questions based on various themes. The player gets to choose the correct answer from four different set of options. If the player chooses the right option, he gets one point and proceeds further. If the option was wrong, no points will be allotted to the player. 
 At the exit of the quiz, the player’s overall factors are displayed and also the total score whatever the player has attained. 
 
